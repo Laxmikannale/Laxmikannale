@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Laxmi
 
-<!--
-**Laxmikannale/Laxmikannale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☁️ Cloud & DevOps Engineer (Fresher)
 
-Here are some ideas to get you started:
+💙 Passionate Cloud & DevOps Engineer with hands-on experience in Linux, Git, GitHub, Jenkins, Docker, AWS EC2, Ansible, Kubernetes, Terraform, and CI/CD pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Bangalore, India | 💼 Open to Work
+
+---
+
+## 🚀 Skills & Tools
+
+- ☁️ AWS
+- 🐳 Docker
+- 🤖 Jenkins
+- ☸️ Kubernetes
+- ⚙️ Ansible
+- 🐧 Linux
+- 🌿 Git & GitHub
+- 🏗️ Terraform
+- 💻 Bash Scripting
+- 🔄 CI/CD
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 End-to-End DevOps CI/CD Pipeline
+**Tools:** Git, GitHub, Jenkins, Docker, AWS EC2, Ansible, Kubernetes, Nginx
+
+- ✅ Automated CI/CD pipeline using Jenkins.
+- ✅ Dockerized web application deployment.
+- ✅ Ansible automation on AWS EC2.
+- ✅ Kubernetes-ready deployment.
+
+### ⌨️ Online Typing Speed Test Platform (MCA Project)
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+
+- ✅ Real-time typing speed & accuracy.
+- ✅ User-friendly interface.
+- ✅ Database to store results.
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: linkedin.com/in/laxmi-kannale-437a98439
+- 💻 GitHub: github.com/Laxmikannale
+
+⭐ *Learning • Building • Automating DevOps Projects*
