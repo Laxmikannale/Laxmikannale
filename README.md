@@ -4,6 +4,7 @@
 
 💙 Passionate Cloud & DevOps Engineer with hands-on experience in Linux, Git, GitHub, Jenkins, Docker, AWS EC2, Ansible, Kubernetes, Terraform, and CI/CD pipelines.
 
+
 📍 Bangalore, India | 💼 Open to Work
 
 ---
