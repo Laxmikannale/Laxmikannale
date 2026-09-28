@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Laxmi
 
-## ☁️ Cloud & DevOps Engineer (Fresher)
+## ☁️ Cloud & DevOps Engineer 
 
 💙 Passionate Cloud & DevOps Engineer with hands-on experience in Linux, Git, GitHub, Jenkins, Docker, AWS EC2, Ansible, Kubernetes, Terraform, and CI/CD pipelines.
 
