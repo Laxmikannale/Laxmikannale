@@ -20,24 +20,29 @@
 - 🔄 CI/CD
 
 ---
+📂 Featured Projects
+🚀 End-to-End DevOps CI/CD Pipeline
 
-## 📂 Featured Projects
+Tools: Git, GitHub, Jenkins, Docker, AWS EC2, Ansible, Kubernetes, Nginx
 
-### 🚀 End-to-End DevOps CI/CD Pipeline
-**Tools:** Git, GitHub, Jenkins, Docker, AWS EC2, Ansible, Kubernetes, Nginx
+🔄 Automated application build and deployment using Jenkins.
+🐳 Containerized the application using Docker.
+☁️ Configured deployment infrastructure using AWS EC2.
+⚙️ Used Ansible for automation and configuration management.
+☸️ Prepared the application for Kubernetes deployment.
+⌨️ Online Typing Speed Test Platform
 
-- ✅ Automated CI/CD pipeline using Jenkins.
-- ✅ Dockerized web application deployment.
-- ✅ Ansible automation on AWS EC2.
-- ✅ Kubernetes-ready deployment.
+MCA Major Project | Python, Django, HTML, CSS, Bootstrap, JavaScript, SQLite
 
-### ⌨️ Online Typing Speed Test Platform (MCA Project)
-**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+⚡ Real-time typing speed, accuracy, and error calculation.
+👤 User registration, login, and authentication.
+📊 Performance tracking and typing history.
+🏆 Leaderboard for comparing typing performance.
+📱 Responsive interface for desktop and mobile devices.
+🔔 In-app notification system.
 
-- ✅ Real-time typing speed & accuracy.
-- ✅ User-friendly interface.
-- ✅ Database to store results.
-
+🔗 Repository:
+https://github.com/Laxmikannale/online-typing-speed-test
 ---
 
 ## 🌐 Connect With Me
